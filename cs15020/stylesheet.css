@@ -1,0 +1,127 @@
+#page {
+margin : auto;
+width : 750px;
+}
+body {
+color: #ffffff;
+background:  url(images/background.png);
+font-family: Verdena;
+color: #999999;
+}
+#header {
+background: url(images/header_image.jpg) no-repeat top center;
+height: 220px;
+margin-top: 10px;
+border-bottom: 2px solid #6e6e6e;
+}
+#content{
+width: 530px;
+padding: 20px;
+margin-top: 20px;
+background-color: #080808;
+float: left;
+}
+#content a{
+text-decoration: none;
+color: #667380;
+}
+#content a:hover{
+text-decoration: none;
+color: #DBEEFF;
+}
+#siteTitle{
+font-weight: bold;
+font-size: 25px;
+border-bottom-style:groove;
+text-align: left;
+color: #ffffff;
+margin-bottom: 20px;
+}
+.form{
+text-align: center;
+}
+.disclaimer{
+margin-top: 50px;
+font-style: italic;
+font-size: 12px;
+text-align: center;
+}
+#navigation {
+margin-top: 10px;
+width: 170px;
+float: right;
+}
+#navigation li{
+list-style: none;
+text-align: center;
+line-height: 1.8em;
+padding: 0px;
+font-weight: bold;
+}
+#navigation ul li a{
+border-bottom: 1px dashed #ffffff;
+padding: 0px;
+margin: 0px;
+width: 170px;
+color: #505050;
+text-decoration: none;
+background-color: #080808;
+float: right;
+}
+#navigation li a:hover{
+background-color: #333333;
+color: #808080;
+}
+#navigation li a.last{
+border-bottom: 0px solid #ffffff;
+}
+#menuTitle{
+width: 170px;
+margin-bottom: 10px;
+text-align: center;
+font-weight: bold;
+font-size: 20px;
+color: white;
+text-transform: uppercase;
+padding-top: 5px;
+}
+#validation{
+margin : 20px 40px 10px;
+width : 88px;
+height : 31px;
+float: right;
+}
+#footer{
+margin-top: 70px;
+width:750px;
+float: left;
+text-align:center;
+}
+
+
+.name{
+margin-bottom: 0px;
+text-align: center;
+}
+#contact{
+text-align: center;
+margin-top: 0px;
+text-align: center;
+}
+.profile{
+text-align: center;
+}
+#content h2 {
+margin: 10px 0px 0px;
+color: #CCCCCC;
+}
+#content h4 {
+margin: 10px 0px 0px;
+font-weight: normal;
+}
+#content ul{
+font-size: 15px;
+}
+.justify{
+text-align: justify;
+}
